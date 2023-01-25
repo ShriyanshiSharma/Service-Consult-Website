@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Service-Consult-Website/static/css/main.11ffed58.css",
+    "main.js": "/Service-Consult-Website/static/js/main.ae56d966.js",
+    "index.html": "/Service-Consult-Website/index.html",
+    "main.11ffed58.css.map": "/Service-Consult-Website/static/css/main.11ffed58.css.map",
+    "main.ae56d966.js.map": "/Service-Consult-Website/static/js/main.ae56d966.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11ffed58.css",
+    "static/js/main.ae56d966.js"
+  ]
+}
